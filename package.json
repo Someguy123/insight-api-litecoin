@@ -6,7 +6,7 @@
     "name": "Ryan X Charles",
     "email": "ryan@bitpay.com"
   },
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/someguy123/insight-api-litecoin.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -34,9 +34,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/someguy123/insight-api-litecoin/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/someguy123/insight-api-litecoin",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -59,7 +59,7 @@
     "base58-native": "0.1.2",
     "bignum": "*",
     "bitauth": "^0.1.1",
-    "bitcore": "git://github.com/bitpay/bitcore.git#aa41c70cff2583d810664c073a324376c39c8b36",
+    "bitcore": "git://github.com/someguy123/bitcore.git#aa41c70cff2583d810664c073a324376c39c8b36",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
